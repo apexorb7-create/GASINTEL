@@ -1,0 +1,6 @@
+{
+  "name": "GASINTEL - Gas Demand Forecasting & Intelligence",
+  "description": "AI-powered regional gas demand forecasting and distribution intelligence decision-support platform for Uzbekistan's gas infrastructure prototype with synthetic data transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
